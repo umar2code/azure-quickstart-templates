@@ -7,4 +7,4 @@
     <img src="http://armviz.io/visualizebutton.png"/>
 </a>
 
-This template allows you to create a Logic app that listens to a folder on an FTP server and will copy it to an Azure Blob container. You can add an additional triggers or actions to customize it to your needs..
+This template allows you to create a Logic app that listens to a folder on an FTP server and will copy it to an Azure Blob container. You can add an additional triggers or actions to customize it to your needs.
